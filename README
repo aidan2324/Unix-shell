@@ -6,7 +6,7 @@ Files:
 
 Makefile	# Compiles your shell program and runs the tests
 README		# This file
-tsh.c		# The shell program that you will write and hand in
+tsh.c		# MAIN SHELL PROGRAM
 tshref		# The reference shell binary.
 
 # The remaining files are used to test your shell
